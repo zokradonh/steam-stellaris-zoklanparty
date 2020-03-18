@@ -1,20 +1,20 @@
 	NInterface = {
 		# Shortcuts for topbar buttons, F12 is overwritten by screenshot command
 		TOPBAR_BUTTONS_SHORTCUTS = {
-			"market" "F1"
 			"contacts" "F2"
 			"situation" "F3"
-			"technology" "F4"
-			"leaders" "F5"
-			"traditions" "F6"
+			"market" "F1"
 			"empire" "F7"
 			"expansion_planner" "F8"
-			"fleet_manager" "F9"
-			"ship_designer" "F10"
-			"factions" "alt+F1"
-			"species" "alt+F2"
-			"edicts" "alt+F3"
 			"policies" "alt+F5"
+			"edicts" "alt+F3"
+			"traditions" "F6"
+			"ship_designer" "F10"
+			"fleet_manager" "F9"
+			"technology" "F4"
+			"factions" "alt+F1"
 			"claims" "alt+F6"
+			"species" "alt+F2"
+			"leaders" "F5"
 		}
 	}
